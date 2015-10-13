@@ -21,5 +21,5 @@ To avoid this problem, the following methodes were implemented:
 - As DeviceConnection is execute on demand when the user wants to connect, this method runs o a thread that keeps monitoring the status of the connection, updating CheckConnection and allowing SendAsync to avoid errors.
 
 any question or recomendation feel free to write me to: 
-williamotaku@hotmail.com
+williamkodi@gmail.com
 
